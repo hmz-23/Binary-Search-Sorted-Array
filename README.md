@@ -1,1 +1,1 @@
-# Binary-Search-Sorted-Array
+# Binary Search using a Sorted Array
