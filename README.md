@@ -5,8 +5,11 @@
 #### It always compares the element to be searched with the middle element of the sorted array. If there is a match it returns the element's index. If the search key is less than the middle element, repeat searching on the left half, otherwise, search the right half.
 
 
-The Worst-Case & Average-Case time complexity is O(log n).\
-Best-Case is O(1).\
+Time Complexity:
+
+                O(1) - (Best-Case)
+                O(log n) - (Worst-Case & Average-Case)
+
 
 Space Complexity: 
     
