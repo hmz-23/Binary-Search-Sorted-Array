@@ -7,7 +7,7 @@
 
 Time Complexity:
 
-                O(1) - (Best-Case)
+                O(1)     - (Best-Case)
                 O(log n) - (Worst-Case & Average-Case)
 
 
